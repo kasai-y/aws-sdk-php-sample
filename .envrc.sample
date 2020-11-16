@@ -1,0 +1,4 @@
+# AWS_SDK_LOAD_NONDEFAULT_CONFIG は ~/.aws/config を参照させるために必要となる
+export AWS_SDK_LOAD_NONDEFAULT_CONFIG='true'
+# AWS_PROFILE は ~/.aws/config 等で定義されたprofile名を指定する
+export AWS_PROFILE='sandbox'

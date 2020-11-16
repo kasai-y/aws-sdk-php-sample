@@ -1,0 +1,6 @@
+{
+    "name": "kasai-y/aws-sdk-php-sample",
+    "require": {
+        "aws/aws-sdk-php": "^3.161"
+    }
+}
